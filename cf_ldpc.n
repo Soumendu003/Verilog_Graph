@@ -1,0 +1,1978 @@
+NetDegree	:	0
+bk232
+bk231
+bk228
+bk227
+bk224
+bk223
+bk46
+bk43
+bk39
+bk38
+bk37
+bk36
+bk35
+bk34
+bk33
+bk32
+bk31
+bk30
+bk29
+bk28
+bk27
+bk26
+bk25
+bk22
+bk21
+bk20
+NetDegree	:	0
+NetDegree	:	0
+bk365
+bk364
+bk363
+bk362
+bk361
+bk360
+bk359
+bk358
+bk357
+bk356
+bk355
+bk354
+bk353
+bk352
+bk351
+bk350
+bk349
+bk348
+bk347
+bk346
+bk345
+bk344
+bk343
+bk342
+bk341
+bk340
+bk339
+bk338
+bk337
+bk336
+bk335
+bk334
+bk333
+bk332
+bk331
+bk330
+bk329
+bk328
+bk327
+bk326
+NetDegree	:	0
+bk365
+bk364
+bk363
+bk362
+bk361
+bk360
+bk359
+bk358
+bk357
+bk356
+bk355
+bk354
+bk353
+bk352
+bk351
+bk350
+bk349
+bk348
+bk347
+bk346
+bk345
+bk344
+bk343
+bk342
+bk341
+bk340
+bk339
+bk338
+bk337
+bk336
+bk335
+bk334
+bk333
+bk332
+bk331
+bk330
+bk329
+bk328
+bk327
+bk326
+NetDegree	:	0
+bk339
+bk327
+NetDegree	:	0
+bk353
+bk329
+NetDegree	:	0
+bk354
+bk330
+NetDegree	:	0
+bk356
+bk331
+NetDegree	:	0
+bk332
+bk326
+NetDegree	:	0
+bk357
+bk333
+NetDegree	:	0
+bk360
+bk334
+NetDegree	:	0
+bk361
+bk335
+NetDegree	:	0
+bk362
+bk336
+NetDegree	:	0
+bk363
+bk338
+NetDegree	:	0
+bk340
+bk328
+NetDegree	:	0
+bk341
+bk337
+NetDegree	:	0
+bk346
+bk342
+NetDegree	:	0
+bk347
+bk343
+NetDegree	:	0
+bk352
+bk344
+NetDegree	:	0
+bk355
+bk345
+NetDegree	:	0
+bk358
+bk348
+NetDegree	:	0
+bk359
+bk349
+NetDegree	:	0
+bk364
+bk350
+NetDegree	:	0
+bk365
+bk351
+NetDegree	:	0
+bk265
+NetDegree	:	0
+bk339
+bk256
+bk219
+bk156
+bk155
+bk132
+bk131
+bk111
+bk110
+bk96
+bk95
+bk66
+bk65
+bk60
+bk59
+bk54
+bk53
+NetDegree	:	0
+bk353
+bk256
+bk243
+bk174
+bk173
+bk168
+bk167
+bk129
+bk128
+bk105
+bk104
+bk84
+bk83
+bk69
+bk68
+bk55
+bk37
+bk34
+NetDegree	:	0
+bk354
+bk255
+bk247
+bk239
+bk192
+bk191
+bk177
+bk176
+bk147
+bk146
+bk141
+bk140
+bk93
+bk92
+bk78
+bk77
+bk55
+bk24
+bk23
+NetDegree	:	0
+bk356
+bk255
+bk228
+bk215
+bk186
+bk185
+bk165
+bk164
+bk150
+bk149
+bk120
+bk119
+bk114
+bk113
+bk75
+bk74
+NetDegree	:	0
+bk326
+bk235
+bk219
+bk212
+bk183
+bk182
+bk138
+bk137
+bk133
+bk102
+bk101
+bk97
+bk90
+bk89
+bk81
+bk80
+bk72
+bk71
+bk48
+bk47
+bk40
+NetDegree	:	0
+bk357
+bk243
+bk232
+bk212
+bk169
+bk157
+bk112
+bk106
+bk91
+bk82
+bk63
+bk62
+bk42
+bk41
+NetDegree	:	0
+bk360
+bk247
+bk211
+bk178
+bk166
+bk142
+bk121
+bk91
+bk73
+bk64
+NetDegree	:	0
+bk361
+bk251
+bk211
+bk195
+bk194
+bk175
+bk159
+bk158
+bk130
+bk123
+bk122
+bk82
+bk73
+bk64
+NetDegree	:	0
+bk362
+bk260
+bk239
+bk220
+bk193
+bk148
+bk133
+bk126
+bk125
+bk117
+bk116
+bk108
+bk107
+bk61
+bk40
+NetDegree	:	0
+bk363
+bk260
+bk244
+bk235
+bk184
+bk169
+bk139
+bk127
+bk118
+bk99
+bk98
+bk70
+bk57
+bk56
+bk49
+NetDegree	:	0
+bk340
+bk259
+bk231
+bk215
+bk187
+bk157
+bk151
+bk127
+bk109
+bk100
+bk67
+bk51
+bk50
+NetDegree	:	0
+bk341
+bk259
+bk251
+bk196
+bk166
+bk160
+bk118
+bk109
+bk100
+bk87
+bk86
+bk76
+bk46
+NetDegree	:	0
+bk342
+bk264
+bk220
+bk175
+bk162
+bk161
+bk153
+bk152
+bk144
+bk143
+bk97
+bk85
+bk61
+bk43
+NetDegree	:	0
+bk343
+bk264
+bk248
+bk236
+bk184
+bk178
+bk163
+bk154
+bk135
+bk134
+bk103
+bk79
+bk58
+NetDegree	:	0
+bk344
+bk263
+bk240
+bk216
+bk193
+bk187
+bk163
+bk145
+bk136
+bk115
+bk94
+bk52
+bk49
+bk31
+NetDegree	:	0
+bk345
+bk263
+bk252
+bk196
+bk154
+bk145
+bk136
+bk124
+bk112
+bk88
+bk67
+NetDegree	:	0
+bk348
+bk244
+bk227
+bk208
+bk198
+bk197
+bk189
+bk188
+bk180
+bk179
+bk121
+bk106
+bk76
+bk70
+NetDegree	:	0
+bk349
+bk248
+bk208
+bk199
+bk190
+bk171
+bk170
+bk142
+bk130
+bk85
+bk79
+bk45
+bk44
+NetDegree	:	0
+bk350
+bk236
+bk216
+bk207
+bk199
+bk181
+bk172
+bk151
+bk139
+bk115
+bk103
+bk58
+bk52
+NetDegree	:	0
+bk351
+bk252
+bk240
+bk207
+bk190
+bk181
+bk172
+bk160
+bk148
+bk124
+bk94
+bk88
+NetDegree	:	0
+bk327
+NetDegree	:	0
+bk329
+NetDegree	:	0
+bk330
+NetDegree	:	0
+bk331
+NetDegree	:	0
+bk332
+NetDegree	:	0
+bk333
+NetDegree	:	0
+bk334
+NetDegree	:	0
+bk335
+NetDegree	:	0
+bk336
+NetDegree	:	0
+bk338
+NetDegree	:	0
+bk328
+NetDegree	:	0
+bk337
+NetDegree	:	0
+bk346
+NetDegree	:	0
+bk347
+NetDegree	:	0
+bk352
+NetDegree	:	0
+bk355
+NetDegree	:	0
+bk358
+bk19
+NetDegree	:	0
+bk359
+NetDegree	:	0
+bk364
+NetDegree	:	0
+bk365
+bk2
+NetDegree	:	0
+bk294
+bk3
+NetDegree	:	0
+bk297
+bk4
+NetDegree	:	0
+bk291
+bk5
+NetDegree	:	0
+bk300
+bk6
+NetDegree	:	0
+bk288
+bk7
+NetDegree	:	0
+bk303
+bk8
+NetDegree	:	0
+bk285
+bk9
+NetDegree	:	0
+bk306
+bk10
+NetDegree	:	0
+bk282
+bk11
+NetDegree	:	0
+bk309
+bk12
+NetDegree	:	0
+bk279
+bk13
+NetDegree	:	0
+bk312
+bk14
+NetDegree	:	0
+bk276
+bk15
+NetDegree	:	0
+bk315
+bk16
+NetDegree	:	0
+bk273
+bk17
+NetDegree	:	0
+bk318
+bk18
+NetDegree	:	0
+bk270
+bk19
+NetDegree	:	0
+bk321
+NetDegree	:	0
+bk267
+NetDegree	:	0
+bk324
+NetDegree	:	0
+bk325
+bk323
+bk197
+NetDegree	:	0
+bk268
+bk266
+bk188
+NetDegree	:	0
+bk322
+bk320
+bk179
+NetDegree	:	0
+bk271
+bk269
+bk170
+NetDegree	:	0
+bk319
+bk317
+bk161
+NetDegree	:	0
+bk274
+bk272
+bk152
+NetDegree	:	0
+bk316
+bk314
+bk143
+NetDegree	:	0
+bk277
+bk275
+bk134
+NetDegree	:	0
+bk313
+bk311
+bk125
+NetDegree	:	0
+bk280
+bk278
+bk116
+NetDegree	:	0
+bk310
+bk308
+bk107
+NetDegree	:	0
+bk283
+bk281
+bk98
+NetDegree	:	0
+bk307
+bk305
+bk89
+NetDegree	:	0
+bk286
+bk284
+bk80
+NetDegree	:	0
+bk304
+bk302
+bk71
+NetDegree	:	0
+bk289
+bk287
+bk62
+NetDegree	:	0
+bk301
+bk299
+bk53
+NetDegree	:	0
+bk292
+bk290
+bk44
+NetDegree	:	0
+bk298
+bk296
+bk35
+NetDegree	:	0
+bk295
+bk293
+bk26
+NetDegree	:	0
+bk339
+NetDegree	:	0
+bk353
+NetDegree	:	0
+bk354
+NetDegree	:	0
+bk356
+NetDegree	:	0
+bk326
+NetDegree	:	0
+bk357
+NetDegree	:	0
+bk360
+NetDegree	:	0
+bk361
+NetDegree	:	0
+bk362
+NetDegree	:	0
+bk363
+NetDegree	:	0
+bk340
+NetDegree	:	0
+bk341
+NetDegree	:	0
+bk342
+NetDegree	:	0
+bk343
+NetDegree	:	0
+bk344
+NetDegree	:	0
+bk345
+NetDegree	:	0
+bk348
+NetDegree	:	0
+bk349
+NetDegree	:	0
+bk350
+NetDegree	:	0
+bk351
+NetDegree	:	0
+NetDegree	:	0
+bk2
+NetDegree	:	0
+bk3
+NetDegree	:	0
+bk4
+NetDegree	:	0
+bk5
+NetDegree	:	0
+bk6
+NetDegree	:	0
+bk7
+NetDegree	:	0
+bk8
+NetDegree	:	0
+bk9
+NetDegree	:	0
+bk10
+NetDegree	:	0
+bk11
+NetDegree	:	0
+bk12
+NetDegree	:	0
+bk13
+NetDegree	:	0
+bk14
+NetDegree	:	0
+bk15
+NetDegree	:	0
+bk16
+NetDegree	:	0
+bk17
+NetDegree	:	0
+bk18
+NetDegree	:	0
+bk1
+NetDegree	:	0
+bk2
+NetDegree	:	0
+NetDegree	:	0
+bk4
+NetDegree	:	0
+bk1
+NetDegree	:	0
+bk0
+NetDegree	:	0
+bk2
+NetDegree	:	0
+bk3
+NetDegree	:	0
+bk4
+NetDegree	:	0
+bk5
+NetDegree	:	0
+bk6
+NetDegree	:	0
+bk7
+NetDegree	:	0
+bk8
+NetDegree	:	0
+bk9
+NetDegree	:	0
+bk10
+NetDegree	:	0
+bk11
+NetDegree	:	0
+bk12
+NetDegree	:	0
+bk13
+NetDegree	:	0
+bk14
+NetDegree	:	0
+bk15
+NetDegree	:	0
+bk16
+NetDegree	:	0
+bk17
+NetDegree	:	0
+bk18
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk9
+NetDegree	:	0
+bk10
+NetDegree	:	0
+bk11
+NetDegree	:	0
+bk12
+NetDegree	:	0
+bk13
+NetDegree	:	0
+bk14
+NetDegree	:	0
+bk15
+NetDegree	:	0
+bk16
+NetDegree	:	0
+bk17
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk8
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk7
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk3
+NetDegree	:	0
+NetDegree	:	0
+bk1
+NetDegree	:	0
+bk0
+NetDegree	:	0
+bk0
+NetDegree	:	0
+bk0
+NetDegree	:	0
+bk1
+NetDegree	:	0
+bk5
+NetDegree	:	0
+bk6
+NetDegree	:	0
+bk18
+NetDegree	:	0
+bk19
+NetDegree	:	0
+bk19
+NetDegree	:	0
+bk295
+bk293
+NetDegree	:	0
+bk295
+bk293
+NetDegree	:	0
+bk298
+bk296
+NetDegree	:	0
+bk298
+bk296
+NetDegree	:	0
+bk292
+bk290
+NetDegree	:	0
+bk292
+bk290
+NetDegree	:	0
+bk301
+bk299
+NetDegree	:	0
+bk301
+bk299
+NetDegree	:	0
+bk289
+bk287
+NetDegree	:	0
+bk289
+bk287
+NetDegree	:	0
+bk304
+bk302
+NetDegree	:	0
+bk304
+bk302
+NetDegree	:	0
+bk286
+bk284
+NetDegree	:	0
+bk286
+bk284
+NetDegree	:	0
+bk307
+bk305
+NetDegree	:	0
+bk307
+bk305
+NetDegree	:	0
+bk283
+bk281
+NetDegree	:	0
+bk283
+bk281
+NetDegree	:	0
+bk310
+bk308
+NetDegree	:	0
+bk310
+bk308
+NetDegree	:	0
+bk280
+bk278
+NetDegree	:	0
+bk280
+bk278
+NetDegree	:	0
+bk313
+bk311
+NetDegree	:	0
+bk313
+bk311
+NetDegree	:	0
+bk277
+bk275
+NetDegree	:	0
+bk277
+bk275
+NetDegree	:	0
+bk316
+bk314
+NetDegree	:	0
+bk316
+bk314
+NetDegree	:	0
+bk274
+bk272
+NetDegree	:	0
+bk274
+bk272
+NetDegree	:	0
+bk319
+bk317
+NetDegree	:	0
+bk319
+bk317
+NetDegree	:	0
+bk271
+bk269
+NetDegree	:	0
+bk271
+bk269
+NetDegree	:	0
+bk322
+bk320
+NetDegree	:	0
+bk322
+bk320
+NetDegree	:	0
+bk268
+bk266
+NetDegree	:	0
+bk268
+bk266
+NetDegree	:	0
+bk325
+bk323
+NetDegree	:	0
+bk325
+bk323
+NetDegree	:	0
+bk20
+NetDegree	:	0
+bk23
+NetDegree	:	0
+bk29
+NetDegree	:	0
+bk32
+NetDegree	:	0
+bk38
+NetDegree	:	0
+bk41
+NetDegree	:	0
+bk47
+NetDegree	:	0
+bk50
+NetDegree	:	0
+bk56
+NetDegree	:	0
+bk59
+NetDegree	:	0
+bk65
+NetDegree	:	0
+bk68
+NetDegree	:	0
+bk74
+NetDegree	:	0
+bk77
+NetDegree	:	0
+bk83
+NetDegree	:	0
+bk86
+NetDegree	:	0
+bk92
+NetDegree	:	0
+bk95
+NetDegree	:	0
+bk101
+NetDegree	:	0
+bk104
+NetDegree	:	0
+bk110
+NetDegree	:	0
+bk113
+NetDegree	:	0
+bk119
+NetDegree	:	0
+bk122
+NetDegree	:	0
+bk128
+NetDegree	:	0
+bk131
+NetDegree	:	0
+bk137
+NetDegree	:	0
+bk140
+NetDegree	:	0
+bk146
+NetDegree	:	0
+bk149
+NetDegree	:	0
+bk155
+NetDegree	:	0
+bk158
+NetDegree	:	0
+bk164
+NetDegree	:	0
+bk167
+NetDegree	:	0
+bk173
+NetDegree	:	0
+bk176
+NetDegree	:	0
+bk182
+NetDegree	:	0
+bk185
+NetDegree	:	0
+bk191
+NetDegree	:	0
+bk194
+NetDegree	:	0
+bk22
+bk21
+bk20
+NetDegree	:	0
+bk21
+bk20
+NetDegree	:	0
+bk25
+bk24
+bk23
+NetDegree	:	0
+bk24
+bk23
+NetDegree	:	0
+bk28
+bk27
+bk26
+NetDegree	:	0
+bk27
+bk26
+NetDegree	:	0
+bk31
+bk30
+bk29
+NetDegree	:	0
+bk30
+bk29
+NetDegree	:	0
+bk34
+bk33
+bk32
+NetDegree	:	0
+bk33
+bk32
+NetDegree	:	0
+bk37
+bk36
+bk35
+NetDegree	:	0
+bk36
+bk35
+NetDegree	:	0
+bk40
+bk39
+bk38
+NetDegree	:	0
+bk39
+bk38
+NetDegree	:	0
+bk43
+bk42
+bk41
+NetDegree	:	0
+bk42
+bk41
+NetDegree	:	0
+bk46
+bk45
+bk44
+NetDegree	:	0
+bk45
+bk44
+NetDegree	:	0
+bk49
+bk48
+bk47
+NetDegree	:	0
+bk48
+bk47
+NetDegree	:	0
+bk52
+bk51
+bk50
+NetDegree	:	0
+bk51
+bk50
+NetDegree	:	0
+bk55
+bk54
+bk53
+NetDegree	:	0
+bk54
+bk53
+NetDegree	:	0
+bk58
+bk57
+bk56
+NetDegree	:	0
+bk57
+bk56
+NetDegree	:	0
+bk61
+bk60
+bk59
+NetDegree	:	0
+bk60
+bk59
+NetDegree	:	0
+bk64
+bk63
+bk62
+NetDegree	:	0
+bk63
+bk62
+NetDegree	:	0
+bk67
+bk66
+bk65
+NetDegree	:	0
+bk66
+bk65
+NetDegree	:	0
+bk70
+bk69
+bk68
+NetDegree	:	0
+bk69
+bk68
+NetDegree	:	0
+bk73
+bk72
+bk71
+NetDegree	:	0
+bk72
+bk71
+NetDegree	:	0
+bk76
+bk75
+bk74
+NetDegree	:	0
+bk75
+bk74
+NetDegree	:	0
+bk79
+bk78
+bk77
+NetDegree	:	0
+bk78
+bk77
+NetDegree	:	0
+bk82
+bk81
+bk80
+NetDegree	:	0
+bk81
+bk80
+NetDegree	:	0
+bk85
+bk84
+bk83
+NetDegree	:	0
+bk84
+bk83
+NetDegree	:	0
+bk88
+bk87
+bk86
+NetDegree	:	0
+bk87
+bk86
+NetDegree	:	0
+bk91
+bk90
+bk89
+NetDegree	:	0
+bk90
+bk89
+NetDegree	:	0
+bk94
+bk93
+bk92
+NetDegree	:	0
+bk93
+bk92
+NetDegree	:	0
+bk97
+bk96
+bk95
+NetDegree	:	0
+bk96
+bk95
+NetDegree	:	0
+bk100
+bk99
+bk98
+NetDegree	:	0
+bk99
+bk98
+NetDegree	:	0
+bk103
+bk102
+bk101
+NetDegree	:	0
+bk102
+bk101
+NetDegree	:	0
+bk106
+bk105
+bk104
+NetDegree	:	0
+bk105
+bk104
+NetDegree	:	0
+bk109
+bk108
+bk107
+NetDegree	:	0
+bk108
+bk107
+NetDegree	:	0
+bk112
+bk111
+bk110
+NetDegree	:	0
+bk111
+bk110
+NetDegree	:	0
+bk115
+bk114
+bk113
+NetDegree	:	0
+bk114
+bk113
+NetDegree	:	0
+bk118
+bk117
+bk116
+NetDegree	:	0
+bk117
+bk116
+NetDegree	:	0
+bk121
+bk120
+bk119
+NetDegree	:	0
+bk120
+bk119
+NetDegree	:	0
+bk124
+bk123
+bk122
+NetDegree	:	0
+bk123
+bk122
+NetDegree	:	0
+bk127
+bk126
+bk125
+NetDegree	:	0
+bk126
+bk125
+NetDegree	:	0
+bk130
+bk129
+bk128
+NetDegree	:	0
+bk129
+bk128
+NetDegree	:	0
+bk133
+bk132
+bk131
+NetDegree	:	0
+bk132
+bk131
+NetDegree	:	0
+bk136
+bk135
+bk134
+NetDegree	:	0
+bk135
+bk134
+NetDegree	:	0
+bk139
+bk138
+bk137
+NetDegree	:	0
+bk138
+bk137
+NetDegree	:	0
+bk142
+bk141
+bk140
+NetDegree	:	0
+bk141
+bk140
+NetDegree	:	0
+bk145
+bk144
+bk143
+NetDegree	:	0
+bk144
+bk143
+NetDegree	:	0
+bk148
+bk147
+bk146
+NetDegree	:	0
+bk147
+bk146
+NetDegree	:	0
+bk151
+bk150
+bk149
+NetDegree	:	0
+bk150
+bk149
+NetDegree	:	0
+bk154
+bk153
+bk152
+NetDegree	:	0
+bk153
+bk152
+NetDegree	:	0
+bk157
+bk156
+bk155
+NetDegree	:	0
+bk156
+bk155
+NetDegree	:	0
+bk160
+bk159
+bk158
+NetDegree	:	0
+bk159
+bk158
+NetDegree	:	0
+bk163
+bk162
+bk161
+NetDegree	:	0
+bk162
+bk161
+NetDegree	:	0
+bk166
+bk165
+bk164
+NetDegree	:	0
+bk165
+bk164
+NetDegree	:	0
+bk169
+bk168
+bk167
+NetDegree	:	0
+bk168
+bk167
+NetDegree	:	0
+bk172
+bk171
+bk170
+NetDegree	:	0
+bk171
+bk170
+NetDegree	:	0
+bk175
+bk174
+bk173
+NetDegree	:	0
+bk174
+bk173
+NetDegree	:	0
+bk178
+bk177
+bk176
+NetDegree	:	0
+bk177
+bk176
+NetDegree	:	0
+bk181
+bk180
+bk179
+NetDegree	:	0
+bk180
+bk179
+NetDegree	:	0
+bk184
+bk183
+bk182
+NetDegree	:	0
+bk183
+bk182
+NetDegree	:	0
+bk187
+bk186
+bk185
+NetDegree	:	0
+bk186
+bk185
+NetDegree	:	0
+bk190
+bk189
+bk188
+NetDegree	:	0
+bk189
+bk188
+NetDegree	:	0
+bk193
+bk192
+bk191
+NetDegree	:	0
+bk192
+bk191
+NetDegree	:	0
+bk196
+bk195
+bk194
+NetDegree	:	0
+bk195
+bk194
+NetDegree	:	0
+bk199
+bk198
+bk197
+NetDegree	:	0
+bk198
+bk197
+NetDegree	:	0
+bk205
+NetDegree	:	0
+bk261
+NetDegree	:	0
+bk257
+NetDegree	:	0
+bk209
+NetDegree	:	0
+bk253
+NetDegree	:	0
+bk249
+NetDegree	:	0
+bk213
+NetDegree	:	0
+bk245
+NetDegree	:	0
+bk241
+NetDegree	:	0
+bk217
+NetDegree	:	0
+bk237
+NetDegree	:	0
+bk233
+NetDegree	:	0
+bk229
+NetDegree	:	0
+bk225
+NetDegree	:	0
+bk221
+NetDegree	:	0
+bk265
+NetDegree	:	0
+bk201
+bk200
+NetDegree	:	0
+bk202
+bk200
+NetDegree	:	0
+bk203
+bk200
+NetDegree	:	0
+bk204
+bk200
+NetDegree	:	0
+bk200
+NetDegree	:	0
+bk201
+NetDegree	:	0
+bk201
+NetDegree	:	0
+bk201
+NetDegree	:	0
+bk202
+NetDegree	:	0
+bk202
+NetDegree	:	0
+bk202
+NetDegree	:	0
+bk202
+NetDegree	:	0
+bk203
+NetDegree	:	0
+bk203
+NetDegree	:	0
+bk203
+NetDegree	:	0
+bk203
+NetDegree	:	0
+bk204
+NetDegree	:	0
+bk204
+NetDegree	:	0
+bk204
+NetDegree	:	0
+bk204
+NetDegree	:	0
+bk207
+bk206
+bk205
+NetDegree	:	0
+bk208
+bk206
+bk205
+NetDegree	:	0
+bk206
+bk205
+NetDegree	:	0
+bk212
+bk210
+bk209
+NetDegree	:	0
+bk211
+bk210
+bk209
+NetDegree	:	0
+bk210
+bk209
+NetDegree	:	0
+bk215
+bk214
+bk213
+NetDegree	:	0
+bk216
+bk214
+bk213
+NetDegree	:	0
+bk214
+bk213
+NetDegree	:	0
+bk219
+bk218
+bk217
+NetDegree	:	0
+bk220
+bk218
+bk217
+NetDegree	:	0
+bk218
+bk217
+NetDegree	:	0
+bk223
+bk222
+bk221
+NetDegree	:	0
+bk224
+bk222
+bk221
+NetDegree	:	0
+bk222
+bk221
+NetDegree	:	0
+bk227
+bk226
+bk225
+NetDegree	:	0
+bk228
+bk226
+bk225
+NetDegree	:	0
+bk226
+bk225
+NetDegree	:	0
+bk231
+bk230
+bk229
+NetDegree	:	0
+bk232
+bk230
+bk229
+NetDegree	:	0
+bk230
+bk229
+NetDegree	:	0
+bk236
+bk234
+bk233
+NetDegree	:	0
+bk235
+bk234
+bk233
+NetDegree	:	0
+bk234
+bk233
+NetDegree	:	0
+bk239
+bk238
+bk237
+NetDegree	:	0
+bk240
+bk238
+bk237
+NetDegree	:	0
+bk238
+bk237
+NetDegree	:	0
+bk243
+bk242
+bk241
+NetDegree	:	0
+bk244
+bk242
+bk241
+NetDegree	:	0
+bk242
+bk241
+NetDegree	:	0
+bk247
+bk246
+bk245
+NetDegree	:	0
+bk248
+bk246
+bk245
+NetDegree	:	0
+bk246
+bk245
+NetDegree	:	0
+bk251
+bk250
+bk249
+NetDegree	:	0
+bk252
+bk250
+bk249
+NetDegree	:	0
+bk250
+bk249
+NetDegree	:	0
+bk255
+bk254
+bk253
+NetDegree	:	0
+bk256
+bk254
+bk253
+NetDegree	:	0
+bk254
+bk253
+NetDegree	:	0
+bk259
+bk258
+bk257
+NetDegree	:	0
+bk260
+bk258
+bk257
+NetDegree	:	0
+bk258
+bk257
+NetDegree	:	0
+bk263
+bk262
+bk261
+NetDegree	:	0
+bk264
+bk262
+bk261
+NetDegree	:	0
+bk262
+bk261
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk268
+NetDegree	:	0
+bk266
+NetDegree	:	0
+bk268
+bk267
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk271
+NetDegree	:	0
+bk269
+NetDegree	:	0
+bk271
+bk270
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk274
+NetDegree	:	0
+bk272
+NetDegree	:	0
+bk274
+bk273
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk277
+NetDegree	:	0
+bk275
+NetDegree	:	0
+bk277
+bk276
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk280
+NetDegree	:	0
+bk278
+NetDegree	:	0
+bk280
+bk279
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk283
+NetDegree	:	0
+bk281
+NetDegree	:	0
+bk283
+bk282
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk286
+NetDegree	:	0
+bk284
+NetDegree	:	0
+bk286
+bk285
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk289
+NetDegree	:	0
+bk287
+NetDegree	:	0
+bk289
+bk288
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk292
+NetDegree	:	0
+bk290
+NetDegree	:	0
+bk292
+bk291
+NetDegree	:	0
+NetDegree	:	0
+NetDegree	:	0
+bk295
+NetDegree	:	0
+bk293
+NetDegree	:	0
+bk295
+bk294
+NetDegree	:	0
+bk298
+NetDegree	:	0
+bk296
+NetDegree	:	0
+bk298
+bk297
+NetDegree	:	0
+bk301
+NetDegree	:	0
+bk299
+NetDegree	:	0
+bk301
+bk300
+NetDegree	:	0
+bk304
+NetDegree	:	0
+bk302
+NetDegree	:	0
+bk304
+bk303
+NetDegree	:	0
+bk307
+NetDegree	:	0
+bk305
+NetDegree	:	0
+bk307
+bk306
+NetDegree	:	0
+bk310
+NetDegree	:	0
+bk308
+NetDegree	:	0
+bk310
+bk309
+NetDegree	:	0
+bk313
+NetDegree	:	0
+bk311
+NetDegree	:	0
+bk313
+bk312
+NetDegree	:	0
+bk316
+NetDegree	:	0
+bk314
+NetDegree	:	0
+bk316
+bk315
+NetDegree	:	0
+bk319
+NetDegree	:	0
+bk317
+NetDegree	:	0
+bk319
+bk318
+NetDegree	:	0
+bk322
+NetDegree	:	0
+bk320
+NetDegree	:	0
+bk322
+bk321
+NetDegree	:	0
+bk325
+NetDegree	:	0
+bk323
+NetDegree	:	0
+bk325
+bk324

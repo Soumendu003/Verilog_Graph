@@ -1,0 +1,14 @@
+AOI31X1           20   121.104    slow 
+CLKINVX1          20    45.414    slow 
+CLKXOR2X1         14   116.563    slow 
+INVXL              1     2.271    slow 
+MX2X1             20   136.242    slow 
+NAND2XL           75   227.070    slow 
+NAND4XL            1     5.298    slow 
+NOR3X1            21    95.369    slow 
+NOR4X1             3    18.166    slow 
+OAI21X1           75   340.605    slow 
+SDFFQX1           40   817.452    slow 
+XNOR2X1           75   624.443    slow 
+XOR2X1             1     8.326    slow 
+
