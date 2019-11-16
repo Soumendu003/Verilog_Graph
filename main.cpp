@@ -20,7 +20,7 @@ int main(){
         cout<<string(e.what())<<endl;
     }*/
 
-    verilog_HyperGraph_Builder HG_Builder("cf_ldpc_256_8.v", "cf_ldpc_256_8.gates");
+    verilog_HyperGraph_Builder HG_Builder("./Benchmarks/cf_ldpc_256_8.v", "./Benchmarks/cf_ldpc_256_8.gates");
     HG_Builder.init_Builder("cf_ldpc");
     try{
         HG_Builder.build_HGraph();
